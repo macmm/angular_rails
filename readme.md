@@ -1,7 +1,7 @@
 AngularJS + Rails 4.1 Lessons
 ==========
 
-Code repo for a collection of lessons introducing AngularJS with Rails 4.1, written for the Epicodus curriculum.
+Code repo for a collection of lessons introducing AngularJS with Rails 4.1, written by Mac Eisenberg for the Epicodus curriculum.
 
 
 ##### Lessons so far:

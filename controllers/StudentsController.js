@@ -1,4 +1,4 @@
-studentRoster.controller('StudentCtrl', function StudentCtrl($scope, StudentsFactory) {
+studentRoster.controller('StudentsCtrl', function StudentsCtrl($scope, StudentsFactory) {
   $scope.students = StudentsFactory.students;
   $scope.StudentsFactory = StudentsFactory;
 });

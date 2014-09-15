@@ -4,7 +4,7 @@ studentRoster.config(function ($routeProvider) {
    $routeProvider
       .when('/', 
       {
-        controller: 'StudentCtrl',
+        controller: 'StudentsCtrl',
   	    templateUrl: 'views/Students.html'
       })
       .when('/sign-in', 
